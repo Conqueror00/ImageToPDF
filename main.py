@@ -1,21 +1,3 @@
-#print("Image to PDF Converter")
-
-#Pillow library to convert the images to pdf
-#from PIL import Image
-
-#images =[
-#    Image.open("photo1.jpg"),
-#   Image.open("photo2.jpg"),
-#    Image.open("photo3.png"),
-#    Image.open("photo4.jpeg")
-#]
-#images[0].save(
-#   "output.pdf",
-#    save_all = True,
-#    append_images = images[1:]
-#)
-#print("pdf created successfully!")
-
 
 import tkinter as tk
 from tkinter import ttk
