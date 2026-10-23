@@ -16,7 +16,7 @@ A Python desktop application that converts images into pdf documents.
 - Pillow (PIL)
 
 #####################
-### Getting Started##
+### Getting Started
 #####################
 
 ### Prerequisites
@@ -27,7 +27,7 @@ A Python desktop application that converts images into pdf documents.
 ### Installation
 
 1. Clone this repository:
-   git clone YOUR_REPOSITORY_URL
+   git clone https://github.com/Conqueror00/ImageToPDF.git
 
 2. Navigate to the project directory:
     cd ImageToPDF
