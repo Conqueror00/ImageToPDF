@@ -1,4 +1,4 @@
-#Requirements are as follows:
+# Requirements are as follows:
 1.Pillow
 
-You only need Pillow for this project because tkinker comes together with most standard python installation so there's no need to install it separately.
+# You only need Pillow for this project because tkinker comes together with most standard python installation so there's no need to install it separately.
