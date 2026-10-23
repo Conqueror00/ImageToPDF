@@ -4,7 +4,7 @@ A Python desktop application that converts images into pdf documents.
 
 ## Screenshot
 
-![ImageToPDF application screenshot](Screenshot.png)
+![ImageToPDF application screenshot](Screenshot .png)
 
 ## Features
 
